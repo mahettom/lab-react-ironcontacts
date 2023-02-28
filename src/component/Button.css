@@ -1,0 +1,27 @@
+#button-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.button {
+    border: 5px solid outset white;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1rem;
+    background-color: black;
+    color: white;
+}
+
+.delete-button {
+    border: 5px solid outset white;
+    border-radius: 1rem;
+    padding: 0.2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1rem;
+    background-color: black;
+    color: white;   
+}

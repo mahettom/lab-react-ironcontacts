@@ -21,3 +21,10 @@ code {
 tbody tr td img {
   height: 6rem;
 }
+
+tr th {
+  font-size: 1rem;
+  font-weight: 800;
+  padding: 1.5rem;
+  
+}
